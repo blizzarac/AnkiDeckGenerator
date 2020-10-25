@@ -10,4 +10,7 @@ Anki(https://apps.ankiweb.net/) has to be running and AnkiConnect(https://ankiwe
 
 
 ### Run Script
-...
+Add a title for your new Deck and a text which will be parsed
+<img width="517" alt="Screenshot 2020-10-25 at 12 39 25" src="https://user-images.githubusercontent.com/1200319/97105976-26c5e480-16bf-11eb-8592-78274f255c0d.png">
+
+Run the Notebook
